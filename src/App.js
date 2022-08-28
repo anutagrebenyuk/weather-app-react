@@ -18,7 +18,7 @@ export default function App() {
         <footer>
           This is an{" "}
           <a
-            href="https://github.com/anutagrebenyuk/Final-weather-app"
+            href="https://github.com/anutagrebenyuk/weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
